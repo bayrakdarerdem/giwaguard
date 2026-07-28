@@ -73,7 +73,6 @@ Selected work:
 Core strengths: Solidity contract design and testing (Foundry), full-stack product development (Next.js, Supabase, viem), rapid MVP delivery, and grant/hackathon application experience.
 
 ---
-
 ## Links
 
 - GIWA Docs: https://docs.giwa.io
