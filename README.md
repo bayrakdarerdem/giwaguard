@@ -57,6 +57,23 @@ Source, tests, and deploy script: see `/contracts` (Foundry project).
 
 ---
 
+## Team
+
+**Erdem Bayrakdar** (solo team)
+Founder & Full-Stack Blockchain Developer
+Istanbul, Turkey · Turkish
+B.Sc. in Computer Engineering
+3 years of experience as a full-stack blockchain developer, building end-to-end Web3 products (smart contracts, backend, and frontend) across multiple ecosystems.
+
+Selected work:
+- GiwaGuard: this project. Custom Solidity escrow contract deployed and verified on GIWA Sepolia; full Next.js/Supabase application live in production.
+- freelance-arc: decentralized freelance marketplace on Circle's Arc Testnet, using ERC-8183 (Agentic Commerce), Circle Developer Controlled Wallets, and USDC escrow. Submitted to a lablab.ai hackathon and a Circle Grant.
+- Open source contributions to Base (base/docs, base/base) and a Base-themed game shipped to the Base App with a registered Builder Code.
+
+Core strengths: Solidity contract design and testing (Foundry), full-stack product development (Next.js, Supabase, viem), rapid MVP delivery, and grant/hackathon application experience.
+
+---
+
 ## Links
 
 - GIWA Docs: https://docs.giwa.io
