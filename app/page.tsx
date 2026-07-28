@@ -69,7 +69,7 @@ export default function Home() {
           <div className="md:col-span-3">
             <div className="inline-flex items-center gap-2 bg-white/5 border border-white/10 text-emerald-300 text-xs font-medium px-3 py-1 rounded-full mb-6">
               <span className="w-1.5 h-1.5 bg-emerald-400 rounded-full"></span>
-              Built on GIWA — Identity-Verified Escrow
+              Built on GIWA · Identity-Verified Escrow
             </div>
             <h1 className="text-4xl md:text-5xl font-display font-bold text-white mb-5 tracking-tight leading-[1.1]">
               Trusted work,<br />verified on-chain.
