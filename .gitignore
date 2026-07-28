@@ -1,0 +1,10 @@
+node_modules/
+.next/
+.env.local
+.env
+contracts/lib/
+contracts/cache/
+contracts/out/
+contracts/.env
+contracts/broadcast/*/*/run-latest.json
+tsconfig.tsbuildinfo
