@@ -75,7 +75,7 @@ export default function Home() {
               Trusted work,<br />verified on-chain.
             </h1>
             <p className="text-gray-400 mb-8 max-w-md leading-relaxed">
-              Every job is a smart contract. Every payment sits in ETH escrow until it&apos;s approved. Identity can be checked against GIWA&apos;s Dojang trust layer — no platform fees, no middleman.
+              Every job is a smart contract. Every payment sits in ETH escrow until it&apos;s approved. Identity can be checked against GIWA&apos;s Dojang trust layer, with no platform fees and no middleman.
             </p>
             <a href="/post-job" className="inline-block bg-emerald-500 hover:bg-emerald-400 text-gray-900 px-6 py-3 rounded-xl text-sm font-semibold transition-colors">
               Post a Job →
